@@ -1,0 +1,10 @@
+package me.creeperface0777.testPlugin;
+
+public class TestPlugin {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
